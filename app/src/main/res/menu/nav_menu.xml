@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/game_dialog"
+        android:title="@string/game_dialog"/>
+    <item
+        android:id="@+id/funny_option"
+        android:title="@string/funny_menu_option"/>
+
+</menu>

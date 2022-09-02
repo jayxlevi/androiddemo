@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="game_question">What is your favorite video game?</string>
+    <string name="favorite_button">Enter!</string>
+    <string name="my_favorite_games">See my favorite games</string>
+    <string name="game_dialog">Question for you!</string>
+    <string name="funny_menu_option">Whoops how did I get here?</string>
+</resources>
